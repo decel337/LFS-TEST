@@ -1,8 +1,7 @@
 *.png filter=lfs diff=lfs merge=lfs -text
 *.jpg filter=lfs diff=lfs merge=lfs -text
-<<<<<<< HEAD
 *.bmp filter=lfs diff=lfs merge=lfs -text
+*.h5 filter=lfs diff=lfs merge=lfs -text
 
 =======
 >>>>>>> bd7bb7a (add to lfs)
-*.h5 filter=lfs diff=lfs merge=lfs -text
